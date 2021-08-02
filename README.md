@@ -1,4 +1,4 @@
-# UCLA-Senior-Capstone
+# UCLA-Senior-Capstone-Data
 A collection of the spreadsheets containing data collected for my Senior Capstone Project &amp; Thesis.
 
 
